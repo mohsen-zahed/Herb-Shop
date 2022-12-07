@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26070209271",
+    "project_id": "herb-shop-4fdaf",
+    "storage_bucket": "herb-shop-4fdaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26070209271:android:e036e246d2f5c62ff9b9f2",
+        "android_client_info": {
+          "package_name": "com.example.herb_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26070209271-30hplcqncqg6029r7sq1602g5fln4pp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM1SzC7GoWiN_J1uxsrPHWlVx2OowwhBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26070209271-30hplcqncqg6029r7sq1602g5fln4pp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

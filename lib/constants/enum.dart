@@ -1,0 +1,1 @@
+enum MenuItems {home, search, saved, profile}
